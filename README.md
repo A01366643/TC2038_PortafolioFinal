@@ -3,8 +3,6 @@
 
 Luisa Fernanda Castaños Arias | A01366643
 
-Evidencia 1
-
-Evidencia 2
-
-Poster
+- Evidencia 1
+- Evidencia 2
+- Poster
